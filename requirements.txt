@@ -1,5 +1,5 @@
 Pyrogram==2.0.106
-Tgcalls==3.4.6
+py-tgcalls==3.0.2
 yt-dlp
 aiohttp
 aiofiles

@@ -1,11 +1,7 @@
-Pyrogram
-Tgcalls
+Pyrogram>=2.0.106
+Tgcalls>=3.2.1
 yt-dlp
 aiohttp
 aiofiles
-Pyrogram==2.0.106
-Tgcalls==3.2.1
-yt-dlp
-aiohttp
-aiofiles
+requests
 python-arq
